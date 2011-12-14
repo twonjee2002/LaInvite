@@ -1,0 +1,32 @@
+﻿<HotSpotData>
+	<HotSpot
+		Opacity="0"
+		HoverOpacity="0"
+		Color="0x000000" >
+		<Rectangle>24,66,138,28</Rectangle>
+	</HotSpot>
+	<HotSpot
+		Opacity="0"
+		HoverOpacity="20"
+		Color="0x000000" >
+		<RoundRectangle>206,63,114,36,12</RoundRectangle>
+	</HotSpot>
+	<HotSpot
+		TargetPage="9"
+		Skip="false"
+
+		Opacity="0"
+		HoverOpacity="0"
+		Color="0x000000" >
+		<Rectangle>24,94,158,28</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Popup"
+		PopupText="This HotSpot is invisible but interacts with the mouse and opens this popup window"
+		PopupImageFile=""
+		Opacity="0"
+		HoverOpacity="0"
+		Color="0x000000" >
+		<Rectangle>24,122,324,28</Rectangle>
+	</HotSpot>
+</HotSpotData>

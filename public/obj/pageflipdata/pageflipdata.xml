@@ -1,0 +1,642 @@
+﻿<PageflipDataSet>
+<Settings
+	
+	CopyrightMessage="CCB76405304AF1761DCA5DCEAFD2E7562CAE1BDF9BE9AD89C7A5E4F3284DBC7CB0C2096FA5C8C48A159263A37025EEB701A15CB84FE57276B6BAFA43BD32F41851563CB84C71AD89D88C763F83C77030C63B63A3703E61D6D1DA5DCEA422E866286E1BCE9BD872CBB6BAFB533E6573B9B7CAFA653F977265EFA26C95A8D8543732FB65C33C4182E604D107EA3AEAFF5E1750CB1398486C72126241A42A4F611A2F60E6FB3FC3CC5C7FB91AA288172B46155E41A0D902DEB70B4FF8B84EB3EB2BF8B6E95E5952D5462CAA60EEA0E693461350FA433E3273DBB6EDFB313F4272EDB71FFAED672AE41D2050DCBFBA73ED4BB4C90A6E8C598F62B26277D69FD8439B10C0E4FA9AEA962B81B91AD5AB286E87E55E65C42A37F25D0B4DFAEE7DA39629B674094D88141D74C74B4814F72E7E2EB63279FE9212D9862CAA6B925FD9311DA851649597D8211C105054D82BE9AD8A5FA92416302872A9B7CAFB0E672AE41D2050DCBFBA73C92DC351CA9597D8211C54A929C53E9873B9B6BA79FEA422E3162A8A6FD3E702D11A0D6FA39487D9201C105175EB4BFAA949C78727B665063D51B42C21C2D703EF3EE2DDC7C0BBA5AE9726E2/4903"
+	
+	
+	PageWidth="300"
+	PageHeight="400"
+	AutoSize="true"
+	
+	ViewAngle="0"
+	
+	StartPage="1"
+	
+	AlwaysOpened="false"
+	ZeroPage="false"
+	ZeroPageAlwaysVisible="false"
+	
+	RightToLeft="false"
+	VerticalMode="false"
+	
+	HardCover="true"
+	HardPage="false"
+	EmbossedPages="true"
+	
+	LargeCover="true"
+	LargeCoverVerticalOversize="32"
+	LargeCoverHorizontalOversize="16"
+	
+	DropShadow="true"
+	DropShadowSize="20"
+	DropShadowOffset="10"
+	DropShadowAlpha="30"
+	
+	PageLoaderBackColor="0x333333"
+	
+	PageScale="true"
+	MinScale="50"
+	MaxScale="200"
+	
+	MinStageWidth="700"
+	MinStageHeight="620"
+	
+	TransparentBackground="false"
+	BackgroundColor="0x2A2A2A"
+	xBackgroundImageFile="backgrounds/demoBack3.jpg"
+	
+	FPSControlEnabled="true"
+	MaxFPS="60"
+	
+	FontLibraryFile="pageFlipFonts.swf"
+	
+	ControlBar="true"
+	ControlBarScale="100"
+	ControlBarFullScreenScale="150"
+	
+	xControlBarBackgroundColor="0x555555"
+	xControlBarBackgroundAlpha="50"
+	
+	CustomControlBarIcons="false"
+	CustomControlBarFile="pageFlipControls.swf"
+	
+	EnableButtonColoring="true"
+	ButtonColor="0x666666"
+	ButtonAlpha="100"
+	ButtonOverColor="0xF0B400"
+	ButtonOverAlpha="100"
+	ButtonPressColor="0x666666"
+	ButtonPressAlpha="50"
+	ButtonDisabledColor="0x666666"
+	ButtonDisabledAlpha="15"
+	
+	ButtonToolTip="true"
+	
+	ControlBarLoaderEnabled="true"
+	ButtonFirstLastEnabled="true"			  	
+	ButtonLeftRightEnabled="true"			  	
+	ButtonZoomEnabled="true"			  	
+	ButtonPrintEnabled="true"			  	
+	ButtonAutoFlipEnabled="true"			  	
+	ButtonPDFLinkEnabled="true"
+	PDFlink=""
+	ButtonLanguageEnabled="true"
+	ButtonThumbnailEnabled="true"			  	
+	ButtonMuteEnabled="true"			  	
+	ButtonInfoEnabled="true"			  	
+	ButtonIndexEnabled="true"			  	
+	ButtonFullScreenEnabled="true"			  	
+	ButtonCloseEnabled="true"
+	
+	ContentPreviewEnabled="true"
+	ThumbnailsEnabled="true"
+	ThumbnailModeStart="false"
+	ThumbnailWidth="90"
+	ThumbnailHeight="120"
+	ThumbnailDropShadow="true"
+	ThumbnailDropShadowSize="8"
+	ThumbnailDropShadowOffset="2"
+	ThumbnailDropShadowAlpha="30"
+	
+	StartAutoFlip="false"
+	AutoFlipDefaultInterval="2000"
+	AutoFlipLooping="true"
+		  
+	TransparencyEnabled="true"
+	TransparencyActivePage="false"
+	TransparencyAutoLevel="true"
+	TransparencyMaxLevel="16"
+	
+	DragArea="100"
+	AutoFlipArea="100"
+	MousePursuitSpeed="8"
+	ZoomFollowSpeed="10"
+	FlippingDuration="800"
+	
+	PageCache="5"
+	UnloadPages="false"
+	
+	MouseControl="true"
+	DefaultTransition="1"
+	DefaultTransitionDuration="250"
+	FlippingSpreadActivity="true"
+		
+	LayoutOrder="PREVIEW-CONTENT-CONTROLBAR"
+	ControlBarHeight="55"
+	ControlBarOffset="15"
+	ContentPreviewHeight="90"
+	ContentPreviewWidth="130"
+	
+	PopupBackgroundColor="0xFFFFFF"
+	PopupBackgroundOpacity="80"
+	PopupBorderThickness="0"
+	PopupBorderColor="0x000000"
+	PopupRounded="true"
+	PopupRoundedRadius="8"		
+	PopupMargin="8"
+	PopupTitleFont="DINBlk_PFL Normal"			
+	xPopupTextFont=""
+	PopupTitleColor="0x333333"
+	PopupTextColor="0x333333"
+	PopupSpace="8"
+	PopupMouseFollowSpeed="5"
+	
+	InfoWindowWidth="250"
+	FloatingWindowColumnWidth="200"
+	FloatingWindowMargin="10"
+	FloatingWindowHorizontalSpace="16"
+	FloatingWindowVerticalSpace="16"
+	FloatingWindowSeparator="true"
+	FloatingWindowSeparatorColor="0x555555"
+	FloatingWindowSeparatorAlpha="100"
+	FloatingWindowSeparatorHeight="1"
+	FloatingWindowSeparatorOffset="8"
+	FloatingWindowBackgroundColor="0x000000"
+	FloatingWindowBackgroundAlpha="80"
+	FloatingWindowBorderThickness="0"
+	FloatingWindowBorderColor="0xFFFFFF"
+	FloatingWindowBorderAlpha="100"
+	FloatingWindowCornerRadius="16"		
+	FloatingWindowColor="0xFFFFFF"
+	FloatingWindowSize="10"
+	FloatingWindowAlign="CENTER"
+	
+	TOCTitleFont="DINBlk_PFL Normal"			
+	TOCTitleColor="0xFFFFFF"
+	TOCTitleSize="20"
+	TOCTitleAlign="CENTER"			
+	TOCLinkColor="0xFFFFFF"
+	TOCLinkSize="12"
+	TOCLinkAlign="CENTER"			
+	TOCLinkPageNumberColor="0xFFFFFF"
+	TOCLinkPageNumberSize="20"
+	TOCLinkPageNumberAlign="CENTER"
+	TOCPageNumberFirst="false"
+	TOCPageNumberWidth="32"		
+	TOCDescriptionColor="0xFFFFFF"
+	TOCDescriptionSize="12"
+	TOCDescriptionAlign="CENTER"
+	
+	SoundEnabled="true"
+	StartMute="true" >
+
+	<Sounds	EffectVolume="50" >
+		<PullClose		SoundFile="sounds/pullflip0end.mp3" />
+		<PullClose		SoundFile="sounds/pullflip1end.mp3" />
+		<PullClose		SoundFile="sounds/pullflip2end.mp3" />
+		<PullOpen		SoundFile="sounds/pullflip2start.mp3" />
+		<PullClose		SoundFile="sounds/pullflip3end.mp3" />
+		<PullOpen		SoundFile="sounds/pullflip3start.mp3" />
+		<PushClose		SoundFile="sounds/pushflip0end.mp3" />
+		<PushOpen		SoundFile="sounds/pushflip0start.mp3" />
+		<PushClose		SoundFile="sounds/pushflip1end.mp3" />
+		<PushOpen		SoundFile="sounds/pushflip1start.mp3" />
+		<PushClose		SoundFile="sounds/pushflip2end.mp3" />
+		<PushOpen		SoundFile="sounds/pushflip2start.mp3" />
+		<PageTear		SoundFile="sounds/tear.mp3" />
+	</Sounds>
+</Settings>
+
+<PageOrder>
+	<PageData
+		PageFile="pages/demo_page1.png"
+		ThumbnailFile="pages/thumbnails/demo_page1.png"
+		PrintFile="pages/zoom/demo_page1_200.png"
+		ZoomFiles="pages/zoom/demo_page1_200.png[200%]pages/zoom/demo_page1_300.png[300%]pages/zoom/demo_page1_400.png[400%]pages/zoom/demo_page1_500.png[500%]"
+		
+		Label="FrontPage" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page2.png"
+		ThumbnailFile="pages/thumbnails/demo_page2.png"
+		PrintFile="pages/zoom/demo_page2_200.png"
+		ZoomFiles="pages/zoom/demo_page2_200.png[200%]pages/zoom/demo_page2_300.png[300%]pages/zoom/demo_page2_400.png[400%]pages/zoom/demo_page2_500.png[500%]" />
+	<PageData
+		PageFile="pages/demo_page3.jpg"
+		ThumbnailFile="pages/thumbnails/demo_page3.png"
+		PrintFile="pages/zoom/demo_page3_200.png"
+		ZoomFiles="pages/zoom/demo_page3_200.png[260%]pages/zoom/demo_page3_300.png[390%]pages/zoom/demo_page3_400.png[520%]pages/zoom/demo_page3_500.png[650%]"
+		
+		Label="Welcome" />
+	
+	<PageData
+		PageFile="pages/demo_jollyjoker1.png"
+		ThumbnailFile="pages/thumbnails/demo_jollyjoker1.png" />
+	<PageData
+		PageFile="pages/demo_jollyjoker2.png"
+		ThumbnailFile="pages/thumbnails/demo_jollyjoker2.png" />
+	
+	<PageData
+		PageFile="pages/demo_page4.jpg"
+		ThumbnailFile="pages/thumbnails/demo_page4.png"
+		PrintFile="pages/zoom/demo_page4.swf"
+		xSWFPageFileAsZoom="true" />
+	<PageData
+		PageFile="pages/demo_page5.jpg"
+		ThumbnailFile="pages/thumbnails/demo_page5.png"
+		PrintFile="pages/zoom/demo_page5.swf"
+		xSWFPageFileAsZoom="true"
+		xLabel="SWFPageAnim" />
+	
+	<PageData
+		PageFile="pages/demo_page6-7.png"
+		ThumbnailFile="pages/thumbnails/demo_page6-7.png"
+		PrintFile="pages/zoom/demo_page6-7_200.png"
+		ZoomFiles="pages/zoom/demo_page6-7_200.png[200%]pages/zoom/demo_page6-7_300.png[300%]pages/zoom/demo_page6-7_400.png[400%]pages/zoom/demo_page6-7_500.png[500%]"
+		Spread="true"
+		
+		Label="SpreadPNGPage" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page8-9.swf"
+		ThumbnailFile="pages/thumbnails/demo_page8-9.png"
+		PrintFile="pages/demo_page8-9.swf"
+		SWFPageFileAsZoom="true"
+		Spread="true"
+		
+		Label="SWFSpreadAnim" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page10.png"
+		ThumbnailFile="pages/thumbnails/demo_page10.png"
+		PrintFile="pages/zoom/demo_page10_200.png"
+		ZoomFiles="pages/zoom/demo_page10_200.png[200%]pages/zoom/demo_page10_300.png[300%]pages/zoom/demo_page10_400.png[400%]pages/zoom/demo_page10_500.png[500%]"
+		
+		HotSpotFile="hotspots/demo_page10.xml" HotSpotScale="77"
+		Label="HotSpotIntro" />
+	<PageData
+		PageFile="pages/demo_page11.png"
+		ThumbnailFile="pages/thumbnails/demo_page11.png"
+		PrintFile="pages/zoom/demo_page11_200.png"
+		ZoomFiles="pages/zoom/demo_page11_200.png[200%]pages/zoom/demo_page11_300.png[300%]pages/zoom/demo_page11_400.png[400%]pages/zoom/demo_page11_500.png[500%]"
+		
+		HotSpotFile="hotspots/demo_page11.xml" HotSpotScale="77"
+		/>
+	
+	
+	<PageData
+		PageFile="pages/demo_page12-13.png"
+		ThumbnailFile="pages/thumbnails/demo_page12-13.png"
+		PrintFile="pages/zoom/demo_page12-13_200.png"
+		ZoomFiles="pages/zoom/demo_page12-13_200.png[200%]pages/zoom/demo_page12-13_300.png[300%]pages/zoom/demo_page12-13_400.png[400%]pages/zoom/demo_page12-13_500.png[500%]"
+		Spread="true"
+		
+		HotSpotFile="hotspots/demo_page12-13.xml" HotSpotScale="77"
+		Label="PNGSpreadHotSpot" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page14-15.png"
+		ThumbnailFile="pages/thumbnails/demo_page14-15.png"
+		PrintFile="pages/zoom/demo_page14-15_200.png"
+		ZoomFiles="pages/zoom/demo_page14-15_200.png[200%]pages/zoom/demo_page14-15_300.png[300%]pages/zoom/demo_page14-15_400.png[400%]pages/zoom/demo_page14-15_500.png[500%]"
+		Spread="true"
+		
+		Label="SWFSpreadHotSpot" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page16.png"
+		ThumbnailFile="pages/thumbnails/demo_page16.png"
+		PrintFile="pages/zoom/demo_page16_200.png"
+		ZoomFiles="pages/zoom/demo_page16_200.png[200%]pages/zoom/demo_page16_300.png[300%]pages/zoom/demo_page16_400.png[400%]pages/zoom/demo_page16_500.png[500%]"
+		
+		Label="CustomBGM" />
+	<PageData
+		PageFile="pages/demo_page17.png"
+		ThumbnailFile="pages/thumbnails/demo_page17.png"
+		PrintFile="pages/zoom/demo_page17_200.png"
+		ZoomFiles="pages/zoom/demo_page17_200.png[200%]pages/zoom/demo_page17_300.png[300%]pages/zoom/demo_page17_400.png[400%]pages/zoom/demo_page17_500.png[500%]"
+		
+		MainBGColor="0xF0D010"
+		
+		Label="CustomBG" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page18.png"
+		ThumbnailFile="pages/thumbnails/demo_page18.png"
+		PrintFile="pages/zoom/demo_page18_200.png"
+		ZoomFiles="pages/zoom/demo_page18_200.png[200%]pages/zoom/demo_page18_300.png[300%]pages/zoom/demo_page18_400.png[400%]pages/zoom/demo_page18_500.png[500%]"
+		
+		Label="Transparency" />
+	<PageData
+		PageFile="pages/demo_page19.png"
+		ThumbnailFile="pages/thumbnails/demo_page19.png"
+		PrintFile="pages/zoom/demo_page19_200.png"
+		ZoomFiles="pages/zoom/demo_page19_200.png[200%]pages/zoom/demo_page19_300.png[300%]pages/zoom/demo_page19_400.png[400%]pages/zoom/demo_page19_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page20.png"
+		ThumbnailFile="pages/thumbnails/demo_page20.png"
+		PrintFile="pages/zoom/demo_page20_200.png"
+		ZoomFiles="pages/zoom/demo_page20_200.png[200%]pages/zoom/demo_page20_300.png[300%]pages/zoom/demo_page20_400.png[400%]pages/zoom/demo_page20_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true" />
+	<PageData
+		PageFile="pages/demo_page21.png"
+		ThumbnailFile="pages/thumbnails/demo_page21.png"
+		PrintFile="pages/zoom/demo_page21_200.png"
+		ZoomFiles="pages/zoom/demo_page21_200.png[200%]pages/zoom/demo_page21_300.png[300%]pages/zoom/demo_page21_400.png[400%]pages/zoom/demo_page21_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page22.png"
+		ThumbnailFile="pages/thumbnails/demo_page22.png"
+		PrintFile="pages/zoom/demo_page22_200.png"
+		ZoomFiles="pages/zoom/demo_page22_200.png[200%]pages/zoom/demo_page22_300.png[300%]pages/zoom/demo_page22_400.png[400%]pages/zoom/demo_page22_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true" />
+	<PageData
+		PageFile="pages/demo_page23.png"
+		ThumbnailFile="pages/thumbnails/demo_page23.png"
+		PrintFile="pages/zoom/demo_page23_200.png"
+		ZoomFiles="pages/zoom/demo_page23_200.png[200%]pages/zoom/demo_page23_300.png[300%]pages/zoom/demo_page23_400.png[400%]pages/zoom/demo_page23_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true"/>
+	
+	
+	<PageData
+		PageFile="pages/demo_page24.png"
+		ThumbnailFile="pages/thumbnails/demo_page24.png"
+		PrintFile="pages/zoom/demo_page24_200.png"
+		ZoomFiles="pages/zoom/demo_page24_200.png[200%]pages/zoom/demo_page24_300.png[300%]pages/zoom/demo_page24_400.png[400%]pages/zoom/demo_page24_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true"/>
+	<PageData
+		PageFile="pages/demo_page25.png"
+		ThumbnailFile="pages/thumbnails/demo_page25.png"
+		PrintFile="pages/zoom/demo_page25_200.png"
+		ZoomFiles="pages/zoom/demo_page25_200.png[200%]pages/zoom/demo_page25_300.png[300%]pages/zoom/demo_page25_400.png[400%]pages/zoom/demo_page25_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page26.png"
+		ThumbnailFile="pages/thumbnails/demo_page26.png"
+		PrintFile="pages/zoom/demo_page26_200.png"
+		ZoomFiles="pages/zoom/demo_page26_200.png[200%]pages/zoom/demo_page26_300.png[300%]pages/zoom/demo_page26_400.png[400%]pages/zoom/demo_page26_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true" />
+	<PageData
+		PageFile="pages/demo_page27.png"
+		ThumbnailFile="pages/thumbnails/demo_page27.png"
+		PrintFile="pages/zoom/demo_page27_200.png"
+		ZoomFiles="pages/zoom/demo_page27_200.png[200%]pages/zoom/demo_page27_300.png[300%]pages/zoom/demo_page27_400.png[400%]pages/zoom/demo_page27_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page28.png"
+		ThumbnailFile="pages/thumbnails/demo_page28.png"
+		PrintFile="pages/zoom/demo_page28_200.png"
+		ZoomFiles="pages/zoom/demo_page28_200.png[200%]pages/zoom/demo_page28_300.png[300%]pages/zoom/demo_page28_400.png[400%]pages/zoom/demo_page28_500.png[500%]"
+		PageIsTrasnsparent="true" DisableEmbossing="true" />
+	<PageData
+		PageFile="pages/demo_page29.png"
+		ThumbnailFile="pages/thumbnails/demo_page29.png"
+		PrintFile="pages/zoom/demo_page29_200.png"
+		ZoomFiles="pages/zoom/demo_page29_200.png[200%]pages/zoom/demo_page29_300.png[300%]pages/zoom/demo_page29_400.png[400%]pages/zoom/demo_page29_500.png[500%]" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page30.png"
+		ThumbnailFile="pages/thumbnails/demo_page30.png"
+		PrintFile="pages/zoom/demo_page30_200.png"
+		ZoomFiles="pages/zoom/demo_page30_200.png[200%]pages/zoom/demo_page30_300.png[300%]pages/zoom/demo_page30_400.png[400%]pages/zoom/demo_page30_500.png[500%]" />
+	<PageData
+		PageFile="pages/demo_page31.jpg"
+		ThumbnailFile="pages/thumbnails/demo_page31.png"
+		PrintFile="pages/zoom/demo_page31_200.png"
+		ZoomFiles="pages/zoom/demo_page31_200.png[200%]pages/zoom/demo_page31_300.png[300%]pages/zoom/demo_page31_400.png[400%]pages/zoom/demo_page31_500.png[500%]" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page32-33.swf"
+		ThumbnailFile="pages/thumbnails/demo_page32-33.png"
+		Spread="true"
+		
+		MainBGMVolume="0"
+		
+		Label="VideoSpread" />
+	
+	
+	<PageData
+		PageFile="pages/demo_jollyjoker1.png"
+		ThumbnailFile="pages/thumbnails/demo_jollyjoker1.png" />
+	<PageData
+		PageFile="pages/demo_jollyjoker2.png"
+		ThumbnailFile="pages/thumbnails/demo_jollyjoker2.png" />
+	
+
+	<PageData
+		PageFile="pages/demo_page34-35.png"
+		ThumbnailFile="pages/thumbnails/demo_page34-35.png"
+		PrintFile="pages/zoom/demo_page34-35_200.png"
+		ZoomFiles="pages/zoom/demo_page34-35_200.png[200%]pages/zoom/demo_page34-35_300.png[300%]pages/zoom/demo_page34-35_400.png[400%]pages/zoom/demo_page34-35_500.png[500%]"
+		Spread="true"
+		
+		Label="SWFSpreadAnim2" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page36.png"
+		ThumbnailFile="pages/thumbnails/demo_page36.png"
+		PrintFile="pages/zoom/demo_page36_200.png"
+		ZoomFiles="pages/zoom/demo_page36_200.png[200%]pages/zoom/demo_page36_300.png[300%]pages/zoom/demo_page36_400.png[400%]pages/zoom/demo_page36_500.png[500%]"
+		
+		Label="Credits" />
+	<PageData
+		PageFile="pages/demo_page37.png"
+		ThumbnailFile="pages/thumbnails/demo_page37.png"
+		PrintFile="pages/zoom/demo_page37_200.png"
+		ZoomFiles="pages/zoom/demo_page37_200.png[200%]pages/zoom/demo_page37_300.png[300%]pages/zoom/demo_page37_400.png[400%]pages/zoom/demo_page37_500.png[500%]"
+		
+		Label="ThanksGiving" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page38.png"
+		ThumbnailFile="pages/thumbnails/demo_page38.png"
+		PrintFile="pages/zoom/demo_page38_200.png"
+		ZoomFiles="pages/zoom/demo_page38_200.png[200%]pages/zoom/demo_page38_300.png[300%]pages/zoom/demo_page38_400.png[400%]pages/zoom/demo_page38_500.png[500%]" />
+	<PageData
+		PageFile="pages/demo_page39.png"
+		ThumbnailFile="pages/thumbnails/demo_page39.png"
+		PrintFile="pages/zoom/demo_page39_200.png"
+		ZoomFiles="pages/zoom/demo_page39_200.png[200%]pages/zoom/demo_page39_300.png[300%]pages/zoom/demo_page39_400.png[400%]pages/zoom/demo_page39_500.png[500%]" />
+	
+	
+	<PageData
+		PageFile="pages/demo_page40.png"
+		ThumbnailFile="pages/thumbnails/demo_page40.png"
+		PrintFile="pages/zoom/demo_page40_200.png"
+		ZoomFiles="pages/zoom/demo_page40_200.png[200%]pages/zoom/demo_page40_300.png[300%]pages/zoom/demo_page40_400.png[400%]pages/zoom/demo_page40_500.png[500%]"
+		
+		Label="BackCover" />
+</PageOrder>
+
+<TableOfContents>
+	<Title Name="TABLE OF CONTENT" Separator="false" />
+	<Description Text="This is a demo book, with many examples of the new PageFlip features.
+	Click on a link to go to a page, or Click on the title to close this window." />
+	<Link Name="Front Conver, page by page" TargetLabel="FrontPage" Skip="false" />
+	<Link Name="Welcome Page" TargetLabel="Welcome" Skip="true" />
+	<Link Name="SWF Page with scripted animation" TargetLabel="SWFPageAnim" Skip="true" />
+	<Link Name="Spread page with image content" TargetLabel="SpreadPNGPage" Skip="true" />
+	<Link Name="SWF Spread page with scripted animation" TargetLabel="SWFSpreadAnim" Skip="true"  />
+	<Link Name="Introducing Hotspots" TargetLabel="HotSpotIntro" Skip="true" />
+	<Link Name="Hotspots on a Spread with image content" TargetLabel="PNGSpreadHotSpot" Skip="true" />
+	<Link Name="Hotspots on an SWF Spread" TargetLabel="SWFSpreadHotSpot" Skip="true" />
+	<Link Name="Custom Background Music on a Page" TargetLabel="CustomBGM" Skip="true" />
+	<Link Name="SCustom Background Colour & Image on a page" TargetLabel="CustomBG" Skip="true" />
+	<Link Name="Multi Level Transparency" TargetLabel="Transparency" Skip="true" />
+	<Link Name="Videoplayer on a whole Spread" TargetLabel="VideoSpread" Skip="true" Unload="false" />
+	<Link Name="Another SWF Spread with animation" TargetLabel="SWFSpreadAnim2" Skip="true" />
+	<Link Name="Credits" TargetLabel="Credits" Skip="true"  />
+	<Link Name="Thanks Giving" TargetLabel="ThanksGiving" Skip="true"  />
+	<Link Name="go to the Back Cover" TargetLabel="BackCover" Skip="false" />
+</TableOfContents>
+<Info>
+	<Title Name="PAGEFLIP4 DEMOBOOK#1" Align="center" Separator="false" />
+	<Description Text="Created by Abel Vincze © 2011 Iparigrafika" Align="center" Separator="false" />
+	<Description Text="Background Musics are composed for PageFlip4 by Mark Beke © 2011" Align="center" />
+	<Description Text="Powered by PageFlip4, AS3 version." Color="0x777777" Align="center" />
+</Info>
+
+<Language>
+]	<Lang Name="English"
+		Loading="LOADING"
+		PagerPage="Page #"
+		PagerThumbnailPopup="Page #"
+		PagerThumbnails="Thumbnails"
+		PagerThumbnailPages="Thumbs #"
+		PagerZoomPage="Zoom Page #"
+		
+		PrintLeftTooltip="Print left side page"
+		PrintRightTooltip="Print right side page"
+		ZoomLeftTooltip="Zoom on left side page"
+		ZoomRightTooltip="Zoom on right side page"
+		ZoomInTooltip="Zoom In"
+		ZoomOutTooltip="Zoom Out"
+		FirstPageTooltip="First page"
+		PreviousPageTooltip="Previous page"
+		NextPageTooltip="Next page"
+		LastPageTooltip="Last page"
+		
+		AutoFlipTooltip="Autoflip On/Off (A)"
+		MuteTooltip="Mute (M)"
+		InfoTooltip="About (Shift-I)"
+		IndexTooltip="Table Of Contents (I)"
+		LanguageTooltip="Magyar"
+		ThumbnailTooltip="Thumbnail View (T)"
+		FullscreenTooltip="Fullscreen On/Off (Shift-F)"
+		CloseTooltip="Quit PageFlip (Shift-Q)"
+		PDFDownloadTooltip="Download PDF version"
+		
+		SearchTooltip="Find"
+		HelpTooltip="Help"
+		BookmarksTooltip="Bookmarks"
+	/>
+	<Lang Name="Magyar"
+		Loading="BETÖLTÉS"
+		PagerPage="#. oldal"
+		PagerThumbnailPopup="#. oldal"
+		PagerThumbnails="Összes oldal"
+		PagerThumbnailPages="#. oldalak"
+		PagerZoomPage="Nagyítás #. oldal"
+		
+		PrintLeftTooltip="Bal oldal nyomtatása"
+		PrintRightTooltip="Jobb oldal nyomtatása"
+		ZoomLeftTooltip="Bal oldal nagyítása"
+		ZoomRightTooltip="Jobb oldal nagyítása"
+		ZoomInTooltip="Nagyítás"
+		ZoomOutTooltip="Kicsinyítés"
+		FirstPageTooltip="Első oldal"
+		PreviousPageTooltip="Előző oldal"
+		NextPageTooltip="Következő oldal"
+		LastPageTooltip="Utolsó oldal"
+		
+		AutoFlipTooltip="Autómatikus lapozás Ki/Be"
+		MuteTooltip="Hang Ki/Be"
+		InfoTooltip="Impresszum"
+		IndexTooltip="Tartalomjegyzék"
+		LanguageTooltip="Dansk"
+		ThumbnailTooltip="Áttekintés"
+		FullscreenTooltip="Teljes képernyős megjelenítés Ki/Be"
+		CloseTooltip="Bezárás"
+		PDFDownloadTooltip="A magazin PDF változatának letöltése"
+		
+		SearchTooltip="Keresés"
+		HelpTooltip="Segítség"
+		BookmarksTooltip="Könyvjelzők"
+	/>
+	<Lang Name="Dansk"
+		Loading="HENTER"
+		PagerPage="Side #"
+		PagerThumbnailPopup="Side #"
+		PagerThumbnails="Alle sider"
+		PagerThumbnailPages="Miniaturer #"
+		PagerZoomPage="Zoom Side #"
+		
+		PrintLeftTooltip="Udskriv venstre side"
+		PrintRightTooltip="Udskriv højre side"
+		ZoomLeftTooltip="Zoom på venstre side"
+		ZoomRightTooltip="Zoom på højre side"
+		ZoomInTooltip="Zoom Ind"
+		ZoomOutTooltip="Zoom Ud"
+		FirstPageTooltip="Første side"
+		PreviousPageTooltip="Forrige side"
+		NextPageTooltip="Næste side"
+		LastPageTooltip="Sidste side"
+		
+		AutoFlipTooltip="Autoflip Til/Fra (A)"
+		MuteTooltip="Lyd Til/Fra (M)"
+		InfoTooltip="Om (Shift-I)"
+		IndexTooltip="Indholdsfortegnelse (I)"
+		LanguageTooltip="Deutsch"
+		ThumbnailTooltip="Vis Miniaturer (T)"
+		FullscreenTooltip="Fuld skærm Til/Fra (Shift-F)"
+		CloseTooltip="Afslut PageFlip (Shift-Q)"
+		PDFDownloadTooltip="Download PDF version"
+		
+		SearchTooltip="Find"
+		HelpTooltip="Hjælp"
+		BookmarksTooltip="Bogmærker"
+	/>
+	<Lang Name="Deutsch"
+		Loading="Lädt"
+		PagerPage="Seite #"
+		PagerThumbnailPopup="Seite #"
+		PagerThumbnails="Alle Seiten"
+		PagerThumbnailPages="Kleinbild #"
+		PagerZoomPage="Zoom Seite #"
+		
+		PrintLeftTooltip="Linke Seite Ausdrucken"
+		PrintRightTooltip="Rechte Seite Ausdrucken"
+		ZoomLeftTooltip="Zoom auf die linke Seite"
+		ZoomRightTooltip="Zoom auf die rechte Seite"
+		ZoomInTooltip="Zoom In"
+		ZoomOutTooltip="Zoom aus"
+		FirstPageTooltip="Erste seite"
+		PreviousPageTooltip="Forherrige Seite"
+		NextPageTooltip="Nächste Seite"
+		LastPageTooltip="Letzte Seite"
+		
+		AutoFlipTooltip="Autoflip An/Aus (A)"
+		MuteTooltip="Ton An/Aus (M)"
+		InfoTooltip="Ûber (Shift-I)"
+		IndexTooltip="Inhaltsverzeichniss (I)"
+		LanguageTooltip="English"
+		ThumbnailTooltip="Kleinbilder zeigen (T)"
+		FullscreenTooltip="Voll Schirm An/Aus (Shift-F)"
+		CloseTooltip="PageFlip verlassen (Shift-Q)"
+		PDFDownloadTooltip="PDF version herrunterholen"
+		
+		SearchTooltip="Suche"
+		HelpTooltip="Hilfe"
+		BookmarksTooltip="Buchmarke"
+	/>
+</Language>
+</PageflipDataSet>

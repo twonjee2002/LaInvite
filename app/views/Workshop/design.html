@@ -1,0 +1,9 @@
+#{extends 'main.html' /}
+#{set title:'Workshop : Design' /}
+
+#{list items:models.Picture.findAll(), as:'picture'}
+  <img src="@{Application.getPicture(picture?.id)}">
+  #{/list}
+  
+ 
+  

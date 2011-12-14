@@ -1,0 +1,53 @@
+#{extends 'main.html' /}
+#{set title:'Workshop : Invitation' /}
+<html>
+	<head>
+		<title>PageFlip4</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link href="@{'/public/pageflip4personal/obj/css/pageflip_scalable.css'}" rel="stylesheet" type="text/css" />
+		<script type="text/javascript"> src="@{'/public/pageflip4personal/obj/js/swfobject.js'}"</script>
+		<script type="text/javascript">
+			var flashvars = {};
+			flashvars.XMLFileName = "@{'/public/pageflip4personal/obj/pageflipdata/pageflipdata.xml'}";
+			flashvars.DataFolder = "@{'/public/pageflip4personal/obj/pageflipdata/'}";
+			flashvars.StartPage = "1";
+			flashvars.StartAutoFlip = "false";
+			var params = {};
+			
+			params.scale = "noscale";
+			params.salign = "TL";
+			params.wmode = "transparent";
+			params.allowscriptaccess = "always";
+			params.allowfullscreen = "true";
+			params.menu = "true";
+			params.bgcolor = "#FFFFFF";
+
+			var attributes = {};
+			swfobject.embedSWF("pageFlip.swf", "pageflip", "100%", "100%", "10.0.0", false, flashvars, params, attributes);
+		</script>
+	  <link rel="stylesheet" href="@{'/public/pageflip4personal/obj/css/lightbox.css'}" type="text/css" media="screen" />		
+      <script src="@{'/public/pageflip4personal/obj/js/prototype.js'}" type="text/javascript"></script>
+      <script src="@{'/public/pageflip4personal/obj/js/scriptaculous.js?load=effects'}" type="text/javascript"></script>
+      <script src="@{'/public/pageflip4personal/obj/js/lightbox++.js'}" type="text/javascript"></script>
+      <script type="text/javascript">
+			function GroupDelegate(id) {
+				var objLink = document.getElementById(id);
+				Lightbox.prototype.start(objLink);
+			}
+			function LightboxDelegate(url,caption) {
+				var objLink = document.createElement('a');
+				objLink.setAttribute('href',url);
+				objLink.setAttribute('rel','lightbox');
+				objLink.setAttribute('title',caption);
+				Lightbox.prototype.start(objLink);
+			}
+      </script>
+	</head>
+	
+	<body>
+		<div id="pageflip" style="margin: 0;"></div>
+		<a id="group1" href="@{'/public/pageflip4personal/obj/pageflipdata/pages/demo_page_A.png'}" rel="lightbox[demoGroup1]" title="Page A, group Called from PageFlip Hotspot"></a>
+		<a id="group2" href="@{'/public/pageflip4personal/obj/pageflipdata/pages/demo_page_B.png'}" rel="lightbox[demoGroup1]" title="Page B, group Called from PageFlip Hotspot"></a>
+		<a id="group3" href="@{'/public/pageflip4personal/obj/pageflipdata/pages/demo_page_C.png'}" rel="lightbox[demoGroup1]" title="Page C, group Called from PageFlip Hotspot"></a>		
+	</body>
+</html>

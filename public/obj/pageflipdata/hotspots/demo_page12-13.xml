@@ -1,0 +1,38 @@
+﻿<HotSpotData>
+	<HotSpot
+		PopupTitle="Rectangle"
+		PopupText="Rectangle and Rounded Rectangle, with adjustable corner radius"
+		Opacity="20"
+		HoverOpacity="50"
+		Color="0xFFFFFF" >
+		<Rectangle>350,70,64,64</Rectangle>
+		<RoundRectangle>276,70,64,64,16</RoundRectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Stars"
+		PopupText="Customizable Star shapes"
+		Opacity="30"
+		HoverOpacity="70"
+		Color="0xFFFFFF" >
+		<Star>110,402,5,90,45,0</Star>
+		<Star>250,354,16,30,20,0</Star>
+		<Star>649,72,9,48,32,0</Star>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Circles"
+		PopupText="SImple Circle shapes" 
+		Opacity="10"
+		HoverOpacity="30"
+		Color="0xFFFFFF" >
+		<Circle>377,309,43</Circle>
+		<Circle>324,394,20</Circle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Custom Shapes"
+		PopupText="User defined custom shapes, with as many points as needed"
+		Opacity="0"
+		HoverOpacity="90"
+		Color="0xFFFFFF" >
+		<Shape>496.4,169.5/564.9,169.5/564.9,322.1/688.4,169.5/771.6,169.5/655.4,308.8/780,520/700.2,520/610.1,360.5/564.8,414.6/564.8,520/496.4,520</Shape>
+	</HotSpot>
+</HotSpotData>

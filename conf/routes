@@ -1,0 +1,25 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                                       Application.index
+GET     /workshop/active                        Workshop.active
+GET    /workshop/home         					Workshop.home
+GET    /workshop/design                         Workshop.design
+GET    /workshop/invite                         Workshop.invite
+GET    /public/obj/index.html					Workshop.index
+POST    /workshop/{id}/active					Workshop.active
+GET     /application/getpicture                 Workshop.getpicture
+GET     /image                                  Application.image
+GET    /workshop/picture         			    Workshop.picture
+
+ 
+# Ignore favicon requests
+GET     /favicon.ico                            404
+
+# Map static resources from the /app/public folder to the /public path
+GET     /public/                                staticDir:public
+
+# Catch all
+*       /{controller}/{action}                  {controller}.{action}

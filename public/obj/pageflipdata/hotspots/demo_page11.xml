@@ -1,0 +1,34 @@
+﻿<HotSpotData>
+	<HotSpot
+		PopupTitle="Flip to any page"
+		PopupText="In this case, flipping to the next page."
+		TargetPage="12"
+		Skip="false" >
+		<Rectangle>22,194,258,28</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Flip to any URL"
+		PopupText="Click to open Iparigrafika Website in a new browser Tab or Window. (This function work only if PageFlip runs online)"
+		Link="http://iparigrafika.hu/"
+		Target="_blank" >
+		<Rectangle>22,222,212,28</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Open a LightBox Images"
+		PopupText="Click to open an image with LightBox" 
+		LightBoxImage="pages/demo_page11.png"
+		LightBoxCaption="This image file is loaded as Page 11" >
+		<Rectangle>22,250,164,28</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Popup with Image"
+		PopupText="This HotSpot is invisible but interacts with the mouse and opens a Popup Window with Image and texts"
+		PopupImageFile="popupimages/demo_popupimage.png" >
+		<Rectangle>22,302,190,112</Rectangle>
+	</HotSpot>
+	<HotSpot
+		PopupTitle="Customizing"
+		PopupText="The look of the Popup Window can be customized using the XML configuration file. Fonts, colours, sizes, margins, spaces between elements all can be changed." >
+		<Rectangle>22,436,298,60</Rectangle>
+	</HotSpot>
+</HotSpotData>

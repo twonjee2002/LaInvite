@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+
+	background:		#FFFFFF;
+	text-align:		center;
+	margin:			0;
+	width:			100%;
+	height:			100%;
+ 
+}
+
+html {
+	height:			100%;
+	overflow:		auto;
+}
+
+#pageflip {
+	position:		absolute;
+	top:			0px;
+	left:			0px;
+	height:			100%;
+	width:			100%;
+}
